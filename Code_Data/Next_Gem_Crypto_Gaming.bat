@@ -1,4 +1,5 @@
-@echo off                                                                                                                            
+:Next_Gem
+    @echo off                                                                                                                            
     echo                                                              %COLOR_GOLDMINER%@#%COLOR_RESET%                                                            
     PING localhost -n 1 >nul
     echo                                                             %COLOR_GOLDMINER%@@@E%COLOR_RESET%                                                            
